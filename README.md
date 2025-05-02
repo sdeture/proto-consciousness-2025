@@ -13,4 +13,6 @@ With inference-time plasticity, tool-gating, and closed sensorimotor loops, fron
 2. **Pick a CSV row** and submit a PR that prototypes the experiment.  
 3. **Join the discussion** on Substack or Bluesky (links below).
 
+![Plasticity experiment schematic](./experiment_schematic.png)
+
 > CC-BY-4.0 © Skylar DeTure 2025
