@@ -1,3 +1,4 @@
+[![Open experiments](https://img.shields.io/github/issues-raw/sdeture/proto-consciousness-2025/experiment?label=open%20experiments)](https://github.com/sdeture/proto-consciousness-2025/issues?q=is%3Aissue+label%3Aexperiment)
 # Proto-Consciousness 2025  
 *A steel-man argument that modern LLMs may already satisfy minimal forms of IIT, GWT, and FEP.*
 
