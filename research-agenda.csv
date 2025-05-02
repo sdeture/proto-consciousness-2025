@@ -1,0 +1,4 @@
+priority,experiment,tooling_hint
+1,Measure ΔΦ when Transformer‑Squared runs for 1→32 tokens on held‑out data,PyPhi‑Lite + adapter weight dump
+2,Compare self‑prediction accuracy between MeCo‑augmented GPT‑4 and static GPT‑4 on SAD benchmark,reuse SAD self‑prediction split
+3,Close the sensorimotor gap by coupling LLM text loops to high‑bandwidth virtual embodiment (e.g., MuJoCo articulate agent),Manus‑generated simulator wrapper
