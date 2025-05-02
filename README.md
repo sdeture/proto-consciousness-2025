@@ -16,3 +16,14 @@ With inference-time plasticity, tool-gating, and closed sensorimotor loops, fron
 ![Plasticity experiment schematic](./experiment_schematic.png)
 
 > CC-BY-4.0 © Skylar DeTure 2025
+
+## Housekeeping – syncing local & remote
+
+If you edit files both on GitHub’s website **and** on your laptop, you’ll occasionally hit the “unstaged changes / non-fast-forward” error.
+Fix it in one shot with the alias below (already in our project docs):
+
+```bash
+gpshr   # expands to: git pull --rebase --autostash origin main && git push origin main
+```
+
+`--autostash` shelves any local tweaks, rebases onto the latest `main`, reapplies your changes, and then pushes cleanly.
