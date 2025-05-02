@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Sync research-agenda.csv → GitHub Issues (idempotent).
 
